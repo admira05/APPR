@@ -1,9 +1,9 @@
 # APPR-2021-22
 Vzorčni repozitorij za projekt pri predmetu Analiza podatkov s programom R.
 
-V projektu bom analizirala preseljevanje Slovencev od leta 2000 do 2018. Predstavila bom meddržavne in regijske selitve glede na spol, potem bom analizirala tudi preseljevanje glede na starost in namen. Podatke sem pridobila na SURS-u.
+V projektu bom analizirala preseljevanje Slovencev od leta 2000 do 2020. Predstavila bom meddržavne in regijske selitve glede na spol, potem bom analizirala tudi preseljevanje glede na starost in namen. Podatke sem pridobila na SURS-u.
 
-Uporabila bom 5.tabel:
+Uporabila bom 5 tabel:
 
 TABELA 1: Preseljevanje znotraj Slovenije oz. po kohezijskih regijah (stolpci: letnice, regije, spol, število ljudi, ki se je vselilo v to regijo in število ljudi, ki se je odselilo iz te regije
 
