@@ -8,20 +8,20 @@ V projektu bom analizirala preseljevanje Slovencev od leta 2000 do 2020. Predsta
 
 Uporabila bom 4 tabele, katere bom najprej preuredila po stolpcih. Vsako tabelo bom tudi grafično predstavila tako, da bodo razvidni trendi oz vzorci. 
 
-TABELA 1: *Preseljevanje znotraj Slovenije*
+TABELA 1: *Preseljevanje znotraj Slovenije*.
 Za vsako leto posebej bom predstavila število ljudi, ločenih po spolu, ki so preseljevali med regijami. Selitve bom obravnavala glede na 12 statičnih regij v Sloveniji.
 Grafični prikaz te tabele bo zemljevid.
 (stolpci: letnice, regije, spol, število ljudi, ki se je vselilo v to regijo in število ljudi, ki se je odselilo iz te regije).
 
-TABELA 2: *Meddržavne selitve - priseljevanje v Slovenijo glede na starost in izobrazbo* \\
+TABELA 2: *Meddržavne selitve - priseljevanje v Slovenijo glede na starost in izobrazbo*.
 Cilj tabele je prikazati število ljudi, ločenih v različne starostne skupine in ravni izobrazbe, ki so se priselili v Slovenijo v času med letma 2000 in 2020. 
 (stolpci: letnice, spol, starostna omejitve, stopnja izobrazbe,vrednost oz. število ljudi, ki se je priselilo v Slovenijo)
 
-TABELA 3: *Meddržavne selitve - priseljevanje v Slovenijo glede na državo predhodnega bivališča* 
+TABELA 3: *Meddržavne selitve - priseljevanje v Slovenijo glede na državo predhodnega bivališča*.
 V tej tabeli bo razvidno koliko ljudi se je iz drugih držav priselilo v Slovenijo, pri čemer bom dodala še starostno omejitev. Tabelo bom grafično prikazala s stolpčnim grafom.
 (stolpci: letnice, država predhodnega bivališča, starostna omejitev, število ljudi)
 
-TABELA 4: *Meddržavne selitve glede na namen selitve*
+TABELA 4: *Meddržavne selitve glede na namen selitve*.
 Cilj te tabele je analizirati število ljudi, ki se je preselilo iz drugih držav v Slovenijo, glede na različne namene priseljevanja (zaposlitev, sezonsko delo, združitev z družino, študij in drugo). 
 (Stolpci: letnice, namen selitve, število ljudi, ki se je priselilo)
 
