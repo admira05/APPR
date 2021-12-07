@@ -13,7 +13,7 @@ Za vsako leto posebej bom predstavila število ljudi, ločenih po spolu, ki so p
 Grafični prikaz te tabele bo zemljevid.
 (stolpci: letnice, regije, spol, število ljudi, ki se je vselilo v to regijo in število ljudi, ki se je odselilo iz te regije).
 
-TABELA 2: *Meddržavne selitve - priseljevanje v Slovenijo glede na starost in izobrazbo* 
+TABELA 2: *Meddržavne selitve - priseljevanje v Slovenijo glede na starost in izobrazbo* \\
 Cilj tabele je prikazati število ljudi, ločenih v različne starostne skupine in ravni izobrazbe, ki so se priselili v Slovenijo v času med letma 2000 in 2020. 
 (stolpci: letnice, spol, starostna omejitve, stopnja izobrazbe,vrednost oz. število ljudi, ki se je priselilo v Slovenijo)
 
